@@ -41,7 +41,7 @@
                     android:layout_width="25dp"
                     android:layout_height="25dp"
                     android:src="@drawable/ic_baseline_arrow_downward_24"
-                    layout android:layout_alignParentRight="true"
+                    android:layout_alignParentRight="true"
                     android:id="@+id/downloadId"/>
 
             </RelativeLayout>
